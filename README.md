@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+20 year old neural network that quite enjoys Diet Coke.
+
+Founding engineer at [Onyx](https://onyx.app/), hold a master's degree in AI.
+
 <!--
 **pablonyx/pablonyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

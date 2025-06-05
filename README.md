@@ -6,6 +6,8 @@ Building [Keystone](https://withkeystone.com).
 
 Previously founding engineer at [Onyx](https://onyx.app/). Hold a master's degree in AI. Fan of open source and concise bios.
 
+[LinkedIn]([url](https://www.linkedin.com/in/pablo-hansen/))
+
 <!--
 **pablonyx/pablonyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

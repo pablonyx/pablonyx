@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-20 year old that quite enjoys Diet Coke.
-
-Building [Keystone](https://withkeystone.com).
-
-Previously employee #1 at [Onyx](https://onyx.app/). Hold a master's degree in AI. Fan of open source and concise bios.
+I'm a fan of doing things. My life story by age:
+- 17: finished my bachelor’s in computer science.
+- 18: full-time software engineer at a startup while running a six-figure consulting shop on the side.
+- 19-20: finished a master’s degree in AI and the first engineer at [Onyx](onyx.app) for a year 
+- 20: started [Keystone](withkeystone.com).
+- 21: ?
 
 [LinkedIn](https://www.linkedin.com/in/pablo-hansen/)
 

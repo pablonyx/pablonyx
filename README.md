@@ -7,7 +7,7 @@ I'm a fan of doing things. My life story by age:
 - 20: started [Keystone](https://withkeystone.com)
 - 21: ?
 
-[LinkedIn](https://www.linkedin.com/in/pablo-hansen/) [Twitter](https://x.com/thepablohansen)
+<a href="https://www.linkedin.com/in/pablo-hansen)/" target="_blank">LinkedIn</a> <a href="https://x.com/thepablohansen" target="_blank">Twitter</a>
 
 <!--
 **pablonyx/pablonyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

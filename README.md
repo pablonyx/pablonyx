@@ -5,9 +5,9 @@ I'm a fan of doing things. My life story by age:
 - 18: full-time software engineer at a startup while running a six-figure consulting shop on the side
 - 19-20: finished a master’s degree in AI and the first engineer at [Onyx](onyx.app) for a year 
 - 20: started [Keystone](https://withkeystone.com)
-- 21: ?
+- 21: filling out this bullet point as we speak
 
-<a href="https://www.linkedin.com/in/pablo-hansen)/" target="_blank">LinkedIn</a> <a href="https://x.com/thepablohansen" target="_blank">Twitter</a>
+[LinkedIn](https://www.linkedin.com/in/pablo-hansen)  [Twitter](https://x.com/thepablohansen)
 
 <!--
 **pablonyx/pablonyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

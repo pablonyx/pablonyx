@@ -4,7 +4,7 @@ I'm a fan of doing things. My life story by age:
 - 17: finished my bachelor’s in computer science.
 - 18: full-time software engineer at a startup while running a six-figure consulting shop on the side.
 - 19-20: finished a master’s degree in AI and the first engineer at [Onyx](onyx.app) for a year 
-- 20: started [Keystone](withkeystone.com).
+- 20: started [Keystone](https://withkeystone.com).
 - 21: ?
 
 [LinkedIn](https://www.linkedin.com/in/pablo-hansen/) [Twitter](https://x.com/thepablohansen)
